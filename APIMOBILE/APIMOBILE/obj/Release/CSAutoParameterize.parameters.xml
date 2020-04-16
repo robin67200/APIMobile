@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Server=tcp:rvggserver.database.windows.net,1433;Initial Catalog=aspnet-APIMOBILE-20200308052054;Persist Security Info=False;User ID=r.vilmus;Password=salut77!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\API-Mobile\\APIMOBILE\\APIMOBILE\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
